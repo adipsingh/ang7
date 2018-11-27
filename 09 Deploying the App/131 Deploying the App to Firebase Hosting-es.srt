@@ -1,0 +1,256 @@
+1
+00:00:02,590 --> 00:00:07,940
+Obtenga su aplicacin implementada, puede iniciar sesin en su proyecto en firebase y hacer clic en hosting.
+
+2
+00:00:08,310 --> 00:00:13,080
+Y all podr hacer clic en "comenzar" para ver los pasos que debe ejecutar para
+
+3
+00:00:13,080 --> 00:00:15,670
+instalar su aplicacin en el alojamiento de Firebase.
+
+4
+00:00:15,670 --> 00:00:21,720
+Y el primer paso es que tenemos que instalar este paquete de herramientas de Firebase que nos da
+
+5
+00:00:21,720 --> 00:00:24,910
+un sello que hace que la implementacin sea realmente fcil.
+
+6
+00:00:25,050 --> 00:00:27,650
+Entonces, simplemente ejecutemoslo en la lnea de comando.
+
+7
+00:00:27,870 --> 00:00:32,970
+Y en Mac y Linux probablemente necesite agregar un pseudo para obtener los permisos correctos
+
+8
+00:00:32,970 --> 00:00:35,450
+porque lo estamos instalando como un paquete global.
+
+9
+00:00:36,350 --> 00:00:42,860
+Y ahora con eso, esto lo descargar e instalar en nuestra mquina y ya podemos avanzar al siguiente
+
+10
+00:00:42,860 --> 00:00:43,280
+paso.
+
+11
+00:00:43,290 --> 00:00:51,440
+Ahora, ahora ver los tres pasos que necesita ejecutar para llevar su proyecto a la base de fuego.
+
+12
+00:00:51,500 --> 00:00:55,260
+As que ejecutemos el primer comando de inicio de sesin de firebase.
+
+13
+00:00:55,540 --> 00:00:57,680
+Ahora no quiero obtener eso.
+
+14
+00:00:57,680 --> 00:00:58,870
+Gracias.
+
+15
+00:00:58,880 --> 00:01:03,580
+Ahora debera tener una ventana en el navegador donde debe iniciar sesin.
+
+16
+00:01:03,590 --> 00:01:05,230
+Voy a hacer eso rpidamente.
+
+17
+00:01:05,390 --> 00:01:07,850
+Y una vez que hiciste esto, deberas ser reenviado.
+
+18
+00:01:07,910 --> 00:01:13,310
+A partir de entonces puede ejecutar firebase que necesita para poner este proyecto bajo el control de firebase o
+
+19
+00:01:13,310 --> 00:01:16,900
+para usar varias caractersticas configurando varios disparos de sus caractersticas en ese proyecto.
+
+20
+00:01:17,090 --> 00:01:19,960
+Eso incluye, por ejemplo, la base de datos o la tienda de bomberos.
+
+21
+00:01:20,090 --> 00:01:25,550
+Y esto no afecta el hecho de que ya estamos usando eso en este proyecto, simplemente podramos aplicar
+
+22
+00:01:25,550 --> 00:01:28,650
+reglas y configurar la base de datos desde ese proyecto.
+
+23
+00:01:28,790 --> 00:01:30,350
+Pero no quiero hacer eso.
+
+24
+00:01:30,410 --> 00:01:37,190
+Quiero ir al hosting y puedes presionar el espacio y luego ingresar para habilitar el hosting para esta carpeta de proyecto.
+
+25
+00:01:38,090 --> 00:01:40,710
+Elige tu aplicacin a continuacin y presiona enter.
+
+26
+00:01:41,680 --> 00:01:44,080
+Y luego debe elegir dnde se desplegar.
+
+27
+00:01:44,080 --> 00:01:46,330
+Los archivos estn ubicados ahora para nosotros.
+
+28
+00:01:46,320 --> 00:01:50,290
+No es el predeterminado que sera la carpeta pblica, sino la carpeta del disco.
+
+29
+00:01:50,380 --> 00:01:52,420
+As que simplemente ingrese los discos aqu.
+
+30
+00:01:54,600 --> 00:01:57,160
+A partir de entonces puede elegir s.
+
+31
+00:01:57,200 --> 00:02:02,310
+Esto debe configurarse como una aplicacin de una sola pgina que garantizar que siempre le devolvamos
+
+32
+00:02:02,300 --> 00:02:08,930
+la edad del ndice, lo que garantiza que el enrutador angular siempre tenga la oportunidad de manejar las solicitudes entrantes.
+
+33
+00:02:08,930 --> 00:02:15,590
+Si no elige el ao s, obtendr 4 0 4 errores para cualquier otra cosa que no sea la
+
+34
+00:02:15,590 --> 00:02:21,020
+ruta, ya que el servidor desconoce sus rutas y angular no tendr la posibilidad de hacerse
+
+35
+00:02:21,020 --> 00:02:23,380
+cargo estableciendo esto tambin s lo har.
+
+36
+00:02:23,390 --> 00:02:27,170
+Y recibimos la advertencia de que la prxima generacin de maana ya existe all.
+
+37
+00:02:27,170 --> 00:02:28,700
+No, no quiero anular eso.
+
+38
+00:02:28,700 --> 00:02:30,160
+Muchas gracias.
+
+39
+00:02:30,170 --> 00:02:38,240
+Con eso simplemente podemos ejecutar la implementacin de firebase ahora y esto cargar todos los archivos en la carpeta dist
+
+40
+00:02:38,270 --> 00:02:41,900
+al hosting de firebase configura todo para l all.
+
+41
+00:02:42,110 --> 00:02:44,620
+Y una vez que est hecho tambin danos un enlace.
+
+42
+00:02:44,660 --> 00:02:45,640
+Aqu est.
+
+43
+00:02:45,650 --> 00:02:53,810
+As que esto es D U R L, que puedo abrir y si lo hago, tal vez acercar Suman un poco, podemos ver nuestra aplicacin
+
+44
+00:02:53,810 --> 00:02:54,070
+aqu.
+
+45
+00:02:54,070 --> 00:02:56,110
+Entonces iniciemos sesin rpidamente
+
+46
+00:02:56,270 --> 00:02:57,330
+Eso se ve bien.
+
+47
+00:02:58,260 --> 00:02:59,730
+Comencemos un poco
+
+48
+00:03:02,440 --> 00:03:06,260
+de Berberis, vamos a terminarlos, deja que hagas ejercicio.
+
+49
+00:03:06,280 --> 00:03:12,960
+Tambin vemos los ejercicios completos aqu por cierto, lo cual tiene sentido porque estamos compartiendo la misma base de datos
+
+50
+00:03:12,970 --> 00:03:15,320
+detrs del filtro de escenas y dems.
+
+51
+00:03:15,320 --> 00:03:16,840
+Eso funciona.
+
+52
+00:03:16,970 --> 00:03:20,040
+Y esta es nuestra aplicacin implementada.
+
+53
+00:03:20,180 --> 00:03:24,650
+As que permtanme crear rpidamente un nuevo usuario para confirmar que todo esto funciona.
+
+54
+00:03:24,920 --> 00:03:29,640
+Usemos un correo electrnico diferente a su fecha de nacimiento y de acuerdo.
+
+55
+00:03:30,050 --> 00:03:33,980
+Oh, supongo que tambin tom este correo electrnico, as que usemos uno diferente.
+
+56
+00:03:34,250 --> 00:03:35,000
+Eso funciona.
+
+57
+00:03:35,000 --> 00:03:36,270
+Estamos encerrados
+
+58
+00:03:36,710 --> 00:03:41,300
+Y probemos ahora esta nueva direccin de correo electrnico para iniciar sesin y
+
+59
+00:03:45,940 --> 00:03:47,350
+hay todos los trabajos.
+
+60
+00:03:47,440 --> 00:03:50,400
+Y eso tambin funciona en el mvil.
+
+61
+00:03:50,430 --> 00:03:55,160
+Ests all como puedes ver haciendo un poco de zoom para que puedas verlo mejor aqu.
+
+62
+00:03:55,210 --> 00:04:03,520
+Por supuesto, tambin podramos usar crujidos y completar este ejercicio y ver nuestra aplicacin final final
+
+63
+00:04:03,580 --> 00:04:06,310
+en funcionamiento en el navegador.
+
+64
+00:04:06,310 --> 00:04:07,480
+Esto es lo que construimos.
+

@@ -1,0 +1,32 @@
+1
+00:00:02,470 --> 00:00:05,060
+Parabns, voc completa o curso.
+
+2
+00:00:05,140 --> 00:00:13,060
+Voc aprende muito sobre angular angular de material angular e, claro, tambm e so X e espero que
+
+3
+00:00:13,060 --> 00:00:20,540
+voc tambm aprenda como voc pode usar essas ferramentas nesses pacotes e tecnologias em seu prximo projeto.
+
+4
+00:00:20,890 --> 00:00:24,500
+Isso  exatamente o que eu s posso encorajar voc a fazer em seguida.
+
+5
+00:00:24,520 --> 00:00:31,840
+Continue construindo projetos com todos ou apenas alguns desses pacotes e ferramentas, mergulhe em seus prprios exemplos, defina seus prprios
+
+6
+00:00:31,900 --> 00:00:38,080
+objetivos e mergulhe fundo em todas as coisas que voc aprende neste curso, para que voc se
+
+7
+00:00:38,080 --> 00:00:42,120
+sinta realmente confortvel usando-as em qualquer coisa que voc construa no futuro.
+
+8
+00:00:42,430 --> 00:00:46,330
+Espero ver-vos cursos mdios e desejo-lhe tudo de bom.
+

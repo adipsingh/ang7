@@ -1,0 +1,28 @@
+1
+00:00:02,340 --> 00:00:07,470
+Bienvenido a esta pequea seccin de bonificacin, hay algo que te promet que, por supuesto, quiero
+
+2
+00:00:07,470 --> 00:00:13,800
+mostrarte cmo podemos trabajar con temas de materiales angulares en el proyecto del curso utilizamos un tema predefinido y
+
+3
+00:00:13,800 --> 00:00:15,720
+te mostr dnde podras encontrar anuncios.
+
+4
+00:00:15,900 --> 00:00:18,210
+Pero, qu hay de crear tu propio tema?
+
+5
+00:00:18,210 --> 00:00:19,340
+Cmo funcionara eso?
+
+6
+00:00:19,470 --> 00:00:20,930
+Echemos un vistazo ms de cerca a eso.
+
+7
+00:00:20,940 --> 00:00:21,800
+En este mdulo
+

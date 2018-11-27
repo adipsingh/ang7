@@ -1,0 +1,256 @@
+1
+00:00:02,590 --> 00:00:07,940
+Obtenha seu aplicativo implantado. Voc pode fazer login no seu projeto no Firebase e clicar em hospedagem.
+
+2
+00:00:08,310 --> 00:00:13,080
+Alm disso, voc poder clicar para comear a ver as etapas necessrias
+
+3
+00:00:13,080 --> 00:00:15,670
+para executar o aplicativo no Firebase Hosting.
+
+4
+00:00:15,670 --> 00:00:21,720
+O primeiro passo  que precisamos instalar esse pacote de ferramentas do firebase que nos
+
+5
+00:00:21,720 --> 00:00:24,910
+d um selo que facilita muito a implantao.
+
+6
+00:00:25,050 --> 00:00:27,650
+Ento vamos apenas execut-lo na linha de comando.
+
+7
+00:00:27,870 --> 00:00:32,970
+E no Mac e no Linux voc provavelmente precisar adicionar um pseudo na frente dele para obter as
+
+8
+00:00:32,970 --> 00:00:35,450
+permisses corretas, pois estamos instalando-o como um pacote global.
+
+9
+00:00:36,350 --> 00:00:42,860
+E agora com isso isso vai baixar e instalar em nossa mquina e j podemos ir para a prxima
+
+10
+00:00:42,860 --> 00:00:43,280
+etapa.
+
+11
+00:00:43,290 --> 00:00:51,440
+Agora, agora, voc v as trs etapas que voc precisa executar para colocar seu projeto no Firebase.
+
+12
+00:00:51,500 --> 00:00:55,260
+Ento vamos executar o primeiro comando firebase log in.
+
+13
+00:00:55,540 --> 00:00:57,680
+Agora eu no quero entender isso.
+
+14
+00:00:57,680 --> 00:00:58,870
+Obrigado.
+
+15
+00:00:58,880 --> 00:01:03,580
+Agora voc deve obter uma janela no navegador onde voc deve efetuar o login.
+
+16
+00:01:03,590 --> 00:01:05,230
+Eu farei isso rapidamente.
+
+17
+00:01:05,390 --> 00:01:07,850
+E uma vez que voc fez isso, voc deve ser encaminhado.
+
+18
+00:01:07,910 --> 00:01:13,310
+Depois disso, voc pode executar o Firebase para colocar esse projeto sob o controle Firebase ou
+
+19
+00:01:13,310 --> 00:01:16,900
+usar vrios recursos para configurar vrios tipos de recursos desse projeto.
+
+20
+00:01:17,090 --> 00:01:19,960
+Isso inclui, por exemplo, o banco de dados ou o repositrio de incndio.
+
+21
+00:01:20,090 --> 00:01:25,550
+E isso no afeta o fato de que j estamos usando isso neste projeto, podemos apenas aplicar regras
+
+22
+00:01:25,550 --> 00:01:28,650
+e configurar o banco de dados a partir desse projeto.
+
+23
+00:01:28,790 --> 00:01:30,350
+Mas eu no quero fazer isso.
+
+24
+00:01:30,410 --> 00:01:37,190
+Eu quero ir para hospedagem e voc pode acertar o espao e, em seguida, entrar para habilitar a hospedagem para esta pasta
+
+25
+00:01:38,090 --> 00:01:40,710
+de projeto, escolha seu aplicativo depois e aperte enter.
+
+26
+00:01:41,680 --> 00:01:44,080
+E ento voc tem que escolher onde voc est para ser implantado.
+
+27
+00:01:44,080 --> 00:01:46,330
+Os arquivos esto localizados agora para ns.
+
+28
+00:01:46,320 --> 00:01:50,290
+No  o padro que seria a pasta pblica, mas a pasta do disco.
+
+29
+00:01:50,380 --> 00:01:52,420
+Ento, simplesmente insira discos aqui.
+
+30
+00:01:54,600 --> 00:01:57,160
+Depois disso, voc pode escolher sim.
+
+31
+00:01:57,200 --> 00:02:02,310
+Isso deve ser configurado como um aplicativo de pgina nica que garantir que sempre retornemos o arquivo
+
+32
+00:02:02,300 --> 00:02:08,930
+de idade do ndice para ele, garantindo que o roteador angular sempre tenha a chance de lidar com as solicitaes recebidas.
+
+33
+00:02:08,930 --> 00:02:15,590
+Se voc no escolher ano sim, ento voc obter 4 0 4 erros para qualquer coisa, exceto a rota
+
+34
+00:02:15,590 --> 00:02:21,020
+porque suas rotas no so conhecidas pelo servidor e o angular no teria a chance
+
+35
+00:02:21,020 --> 00:02:23,380
+de assumir isso configurando isso tambm, sim.
+
+36
+00:02:23,390 --> 00:02:27,170
+E ns recebemos o aviso de que a prxima idade amanh j existe l.
+
+37
+00:02:27,170 --> 00:02:28,700
+No, no quero anular isso.
+
+38
+00:02:28,700 --> 00:02:30,160
+Muito obrigado.
+
+39
+00:02:30,170 --> 00:02:38,240
+Com isso, podemos simplesmente executar o Firebase deploy agora e isso far o upload de todos os arquivos na pasta dist
+
+40
+00:02:38,270 --> 00:02:41,900
+para o Firebase Host configurando tudo para ele l.
+
+41
+00:02:42,110 --> 00:02:44,620
+E uma vez feito, nos d um link.
+
+42
+00:02:44,660 --> 00:02:45,640
+Aqui est.
+
+43
+00:02:45,650 --> 00:02:53,810
+Ento, este  o D U R L que eu posso abrir e se eu fizer isso, talvez d zoom em Suman um pouco, podemos ver nossa aplicao
+
+44
+00:02:53,810 --> 00:02:54,070
+aqui.
+
+45
+00:02:54,070 --> 00:02:56,110
+Ento, vamos logar rapidamente.
+
+46
+00:02:56,270 --> 00:02:57,330
+Isso parece bom.
+
+47
+00:02:58,260 --> 00:02:59,730
+Vamos comear alguns
+
+48
+00:03:02,440 --> 00:03:06,260
+Berberis, vamos acabar com eles todos os exerccios.
+
+49
+00:03:06,280 --> 00:03:12,960
+Ns tambm vemos todos os exerccios aqui pelo caminho que faz sentido porque estamos compartilhando o mesmo banco de dados
+
+50
+00:03:12,970 --> 00:03:15,320
+nos bastidores, filtrando e assim por diante.
+
+51
+00:03:15,320 --> 00:03:16,840
+Isso funciona.
+
+52
+00:03:16,970 --> 00:03:20,040
+E este  nosso aplicativo implantado.
+
+53
+00:03:20,180 --> 00:03:24,650
+Ento deixe-me criar rapidamente um novo usurio para confirmar que tudo isso funciona.
+
+54
+00:03:24,920 --> 00:03:29,640
+Vamos usar um e-mail diferente para sua data de nascimento e concordar.
+
+55
+00:03:30,050 --> 00:03:33,980
+Acho que peguei esse e-mail tambm, ento vamos usar um diferente.
+
+56
+00:03:34,250 --> 00:03:35,000
+Isso funciona.
+
+57
+00:03:35,000 --> 00:03:36,270
+Estamos trancados.
+
+58
+00:03:36,710 --> 00:03:41,300
+E vamos agora tentar este novo endereo de e-mail para entrar e
+
+59
+00:03:45,940 --> 00:03:47,350
+h todos os trabalhos.
+
+60
+00:03:47,440 --> 00:03:50,400
+E isso tambm funciona no celular.
+
+61
+00:03:50,430 --> 00:03:55,160
+Voc est l, como voc pode ver, amplie um pouco para ver melhor aqui.
+
+62
+00:03:55,210 --> 00:04:03,520
+ claro que tambm poderamos usar crunches e vamos concluir este exerccio e assistir nosso aplicativo final
+
+63
+00:04:03,580 --> 00:04:06,310
+de trabalho executado no navegador.
+
+64
+00:04:06,310 --> 00:04:07,480
+Isso  o que ns construmos.
+

@@ -1,0 +1,32 @@
+1
+00:00:02,470 --> 00:00:05,060
+Felicitaciones, completa el curso.
+
+2
+00:00:05,140 --> 00:00:13,060
+Se aprende mucho sobre el fuego angular angular angular y, por supuesto, tambin X y espero
+
+3
+00:00:13,060 --> 00:00:20,540
+que tambin aprenda cmo puede utilizar estas herramientas estos paquetes y tecnologas en su prximo proyecto.
+
+4
+00:00:20,890 --> 00:00:24,500
+Ahora eso es exactamente lo que solo puedo alentarte a hacer despus.
+
+5
+00:00:24,520 --> 00:00:31,840
+Contina construyendo proyectos con todos o solo algunos de estos paquetes y herramientas. Sumrgete en tus propios ejemplos, establece tus
+
+6
+00:00:31,900 --> 00:00:38,080
+propios objetivos y profundiza en todo lo que aprendes en este curso para que te sientas realmente
+
+7
+00:00:38,080 --> 00:00:42,120
+cmodo usndolos en todo lo que construyas en el futuro.
+
+8
+00:00:42,430 --> 00:00:46,330
+Espero verte un curso promedio tambin y te deseo todo lo mejor.
+

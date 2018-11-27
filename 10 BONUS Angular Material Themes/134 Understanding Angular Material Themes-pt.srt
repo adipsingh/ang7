@@ -1,0 +1,92 @@
+1
+00:00:02,240 --> 00:00:09,300
+Portanto, como os temas de material trabalham, os temas de material tm 5 cores que voc precisa definir,
+
+2
+00:00:09,300 --> 00:00:13,320
+que sero automaticamente atribudos a certas partes de determinados componentes.
+
+3
+00:00:13,470 --> 00:00:20,040
+Portanto, cada componente que faz parte da estrutura de material angular sabe como se auto-modelar ou, para alguns
+
+4
+00:00:20,040 --> 00:00:24,070
+componentes, como um boto, voc pode substitu-lo pela propriedade de cor.
+
+5
+00:00:24,390 --> 00:00:29,770
+Mas tudo isso se refere ao tema subjacente que define os estilos base.
+
+6
+00:00:29,820 --> 00:00:35,010
+Ento, se voc quiser criar um tema como esse, no final voc precisa fazer uma coisa simples, voc
+
+7
+00:00:35,010 --> 00:00:36,090
+precisa definir cinco cores.
+
+8
+00:00:36,120 --> 00:00:40,810
+Agora essas cores so chamadas de paletas e comeamos com uma paleta primria.
+
+9
+00:00:41,010 --> 00:00:44,600
+Essa  a cor mais usada em todas as telas.
+
+10
+00:00:44,610 --> 00:00:47,420
+Ento voc baseou a cor principal no seu aplicativo.
+
+11
+00:00:47,610 --> 00:00:53,750
+ acompanhado por uma paleta de acento que  usada para destacar o contedo de elementos interativos para
+
+12
+00:00:53,760 --> 00:00:54,970
+esses botes flutuantes.
+
+13
+00:00:54,990 --> 00:00:56,220
+Coisas assim.
+
+14
+00:00:56,510 --> 00:01:02,280
+Voc tambm costuma ter uma paleta de garantia, de modo que  uma cor que  usada para mostrar avisos
+
+15
+00:01:02,280 --> 00:01:03,510
+para chamar a ateno.
+
+16
+00:01:04,050 --> 00:01:07,760
+E ento voc vai para as nossas paletas para texto e contedo geral.
+
+17
+00:01:07,770 --> 00:01:11,310
+Uma  a paleta de primeiro plano que  usada para texto e cones.
+
+18
+00:01:11,520 --> 00:01:18,540
+E uma vez que a paleta de fundo, por exemplo,  usada por padro para a barra de ferramentas, ento
+
+19
+00:01:18,540 --> 00:01:25,320
+uma cor de fundo claro com isso eu no quero dizer branco, que  a cor de fundo de
+
+20
+00:01:25,320 --> 00:01:29,070
+sua pgina, mas se um elemento tiver um fundo sutil, usava.
+
+21
+00:01:29,130 --> 00:01:31,430
+Ento, precisamos encontrar essas cinco cores.
+
+22
+00:01:31,440 --> 00:01:34,760
+A questo do curso  onde encontramos e como.
+
+23
+00:01:34,860 --> 00:01:36,040
+Vamos olhar mais de perto.
+

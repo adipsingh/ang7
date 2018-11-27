@@ -1,0 +1,92 @@
+1
+00:00:02,270 --> 00:00:08,070
+En los ltimos mdulos invertimos mucho trabajo en esta aplicacin, pero ahora se ve realmente bien.
+
+2
+00:00:08,390 --> 00:00:15,630
+Es hora de implementarlo y una aplicacin angular una vez que la construiste es solo una aplicacin esttica.
+
+3
+00:00:15,710 --> 00:00:19,360
+Un grupo de H U M L C S S y archivos javascript.
+
+4
+00:00:19,580 --> 00:00:20,630
+Veamos esto.
+
+5
+00:00:20,630 --> 00:00:24,080
+Podemos construirlo ejecutando Engy build dash dash peron's.
+
+6
+00:00:24,260 --> 00:00:26,360
+Esto lo construir para la produccin.
+
+7
+00:00:26,420 --> 00:00:32,450
+Optimcela desde una perspectiva de codificacin o desde la perspectiva de la base de cdigo que debera decir
+
+8
+00:00:32,450 --> 00:00:39,350
+y tambin utilice la compilacin anticipada, lo que significa que ya analizar todas las plantillas angulares y las convertir en JavaScript
+
+9
+00:00:39,410 --> 00:00:45,230
+que se ejecutar muy rpido una vez que lo implemente y no lo haga debe ser analizado primero
+
+10
+00:00:45,260 --> 00:00:46,070
+por Angola.
+
+11
+00:00:46,520 --> 00:00:54,400
+As que con eso obtenemos un paquete realmente eficaz que luego podemos enviar a un servidor para ejecutar nuestra aplicacin.
+
+12
+00:00:54,410 --> 00:00:56,070
+Ahora esperemos a que esto termine.
+
+13
+00:00:57,580 --> 00:01:04,900
+Y una vez que termin, obtienes la carpeta dead dist aqu y tendrs que implementar solo una cosa y ese es el
+
+14
+00:01:04,900 --> 00:01:06,930
+contenido de esta carpeta de disco.
+
+15
+00:01:06,940 --> 00:01:09,040
+Eso es todo lo que se requiere nada ms.
+
+16
+00:01:09,190 --> 00:01:11,070
+Justo lo que hay dentro de esta carpeta.
+
+17
+00:01:11,220 --> 00:01:13,500
+Es esta tu aplicacin angular completa? Ahora cmo lo implementas.
+
+18
+00:01:13,670 --> 00:01:15,340
+Luego puede aplicarlo a
+
+19
+00:01:15,340 --> 00:01:23,830
+cualquier proveedor de alojamiento esttico que desee, como AWOS, pero como ya utilizamos Firebase en este curso, por qu no
+
+20
+00:01:23,830 --> 00:01:30,940
+todos los abogados en firebase porque resulta que Firebase tiene un servicio llamado firebase hosting que es
+
+21
+00:01:30,940 --> 00:01:37,210
+solo un host esttico y, por lo tanto, perfectamente adecuado para ejecutar nuestra aplicacin angular. As que vamos a ponerlo all en la prxima conferencia.
+
+22
+00:01:37,210 --> 00:01:38,690
+&nbsp;
+
+23
+00:01:38,830 --> 00:01:41,170
+&nbsp;
+

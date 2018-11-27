@@ -1,0 +1,28 @@
+1
+00:00:02,340 --> 00:00:07,470
+Bem-vindo a esta pequena seco de bnus, h algo que te prometi, o que obviamente
+
+2
+00:00:07,470 --> 00:00:13,800
+quero mostrar-lhe como podemos trabalhar com temas de materiais angulares no projecto do curso, utilizamos um tema pr-definido
+
+3
+00:00:13,800 --> 00:00:15,720
+e mostrmos onde encontras anncios.
+
+4
+00:00:15,900 --> 00:00:18,210
+Mas e quanto a criar seu prprio tema?
+
+5
+00:00:18,210 --> 00:00:19,340
+Como isso funcionaria?
+
+6
+00:00:19,470 --> 00:00:20,930
+Vamos dar uma olhada nisso.
+
+7
+00:00:20,940 --> 00:00:21,800
+Neste mdulo.
+

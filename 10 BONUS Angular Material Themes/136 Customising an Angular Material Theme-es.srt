@@ -1,0 +1,320 @@
+1
+00:00:02,280 --> 00:00:08,340
+En el material que Engler hizo, puede hacer clic en Guy it's y luego en material angular de entredicho y all encontrar
+
+2
+00:00:08,340 --> 00:00:14,280
+una descripcin de lo que es un tema y un enlace a la especificacin de diseo de materiales que le muestra todos
+
+3
+00:00:14,280 --> 00:00:15,790
+los colores que puede elegir.
+
+4
+00:00:15,810 --> 00:00:16,530
+Eso es bueno para nosotros
+
+5
+00:00:16,530 --> 00:00:18,030
+Lo usaremos en un segundo.
+
+6
+00:00:18,480 --> 00:00:24,720
+Y tambin menciona cmo crear un tema aqu bajo la definicin de un tema personalizado.
+
+7
+00:00:24,720 --> 00:00:26,270
+En realidad es bastante simple.
+
+8
+00:00:26,340 --> 00:00:28,990
+As que esto es lo que caminar junto contigo.
+
+9
+00:00:29,070 --> 00:00:35,790
+As que comencemos a comenzar. Cerrar la carpeta de mi aplicacin y crear un archivo de tema o simplemente crear aqu junto
+
+10
+00:00:35,790 --> 00:00:39,470
+a los estilos de C S. Lo llamar punto de mi campo.
+
+11
+00:00:39,480 --> 00:00:44,140
+Y ahora eso es importante SPSS porque vamos a usar sassier.
+
+12
+00:00:44,250 --> 00:00:49,760
+SAS es un superconjunto de C S normal y nos permite utilizar funciones especiales.
+
+13
+00:00:49,800 --> 00:00:56,760
+Se compilar automticamente en CSS normal mediante DCL y usaremos SAS para la creacin del tema, porque trabajamos
+
+14
+00:00:56,910 --> 00:01:03,810
+con algunas variables para que personas como ellos puedan generar un archivo que definir automticamente los diferentes estilos
+
+15
+00:01:03,810 --> 00:01:08,210
+para los diferentes componentes en funcin de algunas variables de entrada. .
+
+16
+00:01:08,220 --> 00:01:12,200
+Entonces en mi campo es como estar sentado al lado de poner archivos y maynt.
+
+17
+00:01:12,210 --> 00:01:12,730
+S.
+
+18
+00:01:12,810 --> 00:01:18,750
+Y puede nombrar esto seguido de cada deseo que este archivo ahora necesita para importar algo
+
+19
+00:01:19,110 --> 00:01:21,750
+que podemos ver aqu en nuestra documentacin.
+
+20
+00:01:21,750 --> 00:01:25,510
+Necesita importar lo hace.
+
+21
+00:01:25,560 --> 00:01:30,060
+El paquete de faming de material angular se podra decir, vamos a echar eso a esto.
+
+22
+00:01:30,060 --> 00:01:31,340
+S. do. s de la siguiente manera
+
+23
+00:01:32,220 --> 00:01:36,430
+Ahora con ese paquete m ordenado, el siguiente paso es incluir mat core.
+
+24
+00:01:36,510 --> 00:01:44,310
+Ahora esta es una mezcla e incluye esto en este archivo que simplemente pone a nuestra disposicin una gran cantidad
+
+25
+00:01:44,310 --> 00:01:44,930
+de contenido.
+
+26
+00:01:45,000 --> 00:01:47,040
+Por ejemplo, algunas variables.
+
+27
+00:01:47,070 --> 00:01:52,590
+SAS conoce las variables para encontrar el colorista del material angular.
+
+28
+00:01:52,590 --> 00:01:57,950
+Y una gran cantidad de funcionalidades de Ahmer que se necesitan para crear con xito un archivo de estilo al final.
+
+29
+00:01:57,960 --> 00:02:02,480
+Ahora el siguiente paso es definir nuestros colores y temas.
+
+30
+00:02:02,580 --> 00:02:05,970
+As que copiar eso en nuestro archivo y lo explicar.
+
+31
+00:02:06,060 --> 00:02:10,440
+Aqu definimos un conjunto de variables que creamos variables con el signo de dlar al principio.
+
+32
+00:02:10,530 --> 00:02:15,120
+Definimos variables para los colores primarios de las palabras excelentes y estos nombres de variables son
+
+33
+00:02:15,120 --> 00:02:15,870
+totalmente de usted.
+
+34
+00:02:15,930 --> 00:02:22,140
+La funcin Pelet del mapa aqu es nuevamente provista por el paquete de tematizacin y bsicamente es crear una paleta
+
+35
+00:02:22,140 --> 00:02:23,580
+de colores de este tipo.
+
+36
+00:02:23,700 --> 00:02:29,190
+Estas variables que usamos aqu tambin estn definidas por el paquete y se refieren a la gua de color
+
+37
+00:02:29,190 --> 00:02:29,640
+oficial aqu.
+
+38
+00:02:29,760 --> 00:02:33,450
+Entonces aqu tenemos un color azul violeta ail.
+
+39
+00:02:33,660 --> 00:02:35,690
+Estos son solo unos buenos nombres que ves aqu.
+
+40
+00:02:35,730 --> 00:02:40,600
+As que el rojo rosa ndigo siempre estaba precedido por un signo de dlar.
+
+41
+00:02:40,770 --> 00:02:47,320
+As que debes elegir algunos de los colores que ves aqu y puedes agregar hasta tres tonos para el encendedor predeterminado
+
+42
+00:02:47,340 --> 00:02:52,950
+y el empeorar ms oscuro, lo cual tiene mucho sentido para el color anterior, ya que se usa
+
+43
+00:02:52,950 --> 00:02:58,440
+principalmente en botones, y as sucesivamente, porque estas alternativas las formas sern recogidas por material angular, por
+
+44
+00:02:58,440 --> 00:03:00,270
+ejemplo, para efectos de Hobert, etc.
+
+45
+00:03:00,390 --> 00:03:05,100
+Si no los defines, todos los efectos tomarn el color predeterminado.
+
+46
+00:03:05,250 --> 00:03:11,490
+Entonces con esa configuracin conseguimos nuestra configuracin de color libre, la paleta de guerra es opcional como puedes ver aqu.
+
+47
+00:03:11,520 --> 00:03:12,980
+El diablo sera rojo.
+
+48
+00:03:13,440 --> 00:03:18,360
+Y con eso agregado Ahora definimos nuestro propio tema de luz aqu.
+
+49
+00:03:18,450 --> 00:03:23,220
+Ahora eso se hace con el tema de la luz loca o la funcin de tema mate oscuro.
+
+50
+00:03:23,280 --> 00:03:26,750
+La funcin simplemente estilizar los elementos de manera diferente.
+
+51
+00:03:26,760 --> 00:03:30,870
+El campo oscuro le da a todo un fondo ms oscuro y un tema de luz de zona tambin.
+
+52
+00:03:30,870 --> 00:03:31,960
+Un fondo claro.
+
+53
+00:03:31,980 --> 00:03:36,180
+Por lo tanto, es algo que puede hacer para elegir un modo ms oscuro o ms claro para su aplicacin.
+
+54
+00:03:36,420 --> 00:03:41,490
+Usted pasa sus colores libres o al menos hasta una disfuncin libre.
+
+55
+00:03:41,790 --> 00:03:48,030
+Y con eso, lo nico que falta es que realmente llamemos include So
+
+56
+00:03:48,030 --> 00:03:55,560
+use include para ejecutar y nunca construido en mixin, que se llama angular material de Dasch.
+
+57
+00:03:55,550 --> 00:04:01,820
+Ahora, para esta funcin, simplemente pases el tema que creaste y almacenaste en esta variable.
+
+58
+00:04:01,920 --> 00:04:08,070
+As que voy a pasar esto aqu y esto ahora no solo crear el tema sino que tambin lo cargar
+
+59
+00:04:08,070 --> 00:04:13,350
+Esto tambin significa que deberamos ir al Stout's see us file y venir y simplemente darles de
+
+60
+00:04:13,350 --> 00:04:15,750
+baja porque no necesitamos dos feed fighting juntos.
+
+61
+00:04:15,810 --> 00:04:20,940
+Eso, por supuesto, tambin significa que tenemos que asegurarnos de que este archivo personalizado de Feme se cargue
+
+62
+00:04:20,940 --> 00:04:27,180
+y para eso vamos al sello angular, ya sea Jason Fall y adems de cargar los productos que caen CSSA que ahora
+
+63
+00:04:27,190 --> 00:04:27,960
+tambin podemos eliminar.
+
+64
+00:04:27,960 --> 00:04:31,800
+Supongo que ahora tenemos un recode all que lo mantendr.
+
+65
+00:04:31,930 --> 00:04:38,580
+Pero adems de eso, ahora tambin sealar el tema que s. do. s como cada y el sello mira hacia arriba.
+
+66
+00:04:38,620 --> 00:04:42,260
+S. do. s compilacin sace esencia fuera de la caja.
+
+67
+00:04:42,270 --> 00:04:47,860
+Con eso podemos abandonar el proceso de servir de DNG y tenemos que hacer eso para que los cambios sean recogidos y volvamos a ejecutar las energas de
+
+68
+00:04:47,860 --> 00:04:55,270
+la Tierra y esto ahora construir el proyecto nuevamente y construiremos nuestro s. do. s como caer.
+
+69
+00:04:55,330 --> 00:04:57,820
+Ahora para cambios posteriores, no es necesario reiniciar.
+
+70
+00:04:57,910 --> 00:05:03,040
+Simplemente tuve que hacer eso porque cambi la configuracin Selye a cinta este
+
+71
+00:05:03,790 --> 00:05:09,370
+otoo ahora, una vez que la compilacin finaliza, podemos volver a nuestra aplicacin y
+
+72
+00:05:12,350 --> 00:05:14,090
+no vemos una diferencia real.
+
+73
+00:05:14,260 --> 00:05:18,270
+La razn de esto es que el tema que encontramos simplemente usa los colores que usamos antes.
+
+74
+00:05:18,530 --> 00:05:19,910
+As que cambiemos todo.
+
+75
+00:05:19,970 --> 00:05:23,740
+Usemos un color primario de deuda roja y simplemente segura.
+
+76
+00:05:23,960 --> 00:05:29,410
+Y ahora, cuando el EP vuelve a cargar, ves que tenemos un color primario de rata en todas partes.
+
+77
+00:05:29,480 --> 00:05:34,040
+Y as de simple es actualizar y cambiar y manipular temas.
+
+78
+00:05:34,100 --> 00:05:39,290
+Ahora, si desea obtener ms informacin sobre los temas de buceo en la gua oficial, le mostraba los
+
+79
+00:05:39,290 --> 00:05:44,540
+documentos oficiales, pero as es cmo puede trabajar con los equipos y cmo puede asegurarse de que su aplicacin
+
+80
+00:05:44,540 --> 00:05:46,550
+se vea exactamente como usted quiere. .
+
